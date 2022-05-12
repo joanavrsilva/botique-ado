@@ -1,1 +1,1 @@
-Boutique Ado Confirmation for Order Number {{ order.order_number }}
+Galeries Saint-Laurent Confirmation for Order Number {{ order.order_number }}
